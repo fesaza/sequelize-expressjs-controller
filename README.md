@@ -1,10 +1,10 @@
-#sequelize expressjs controller
+## sequelize expressjs controller
 
 This code allow to process any request using express-js and map the JSON body to a Sequelize model, the name of the sequelize model must be provided in the URL
 
 It allow to insert or update a model with associations, the associations are discovered automatically based on Sequelize model. The relations allowed to be processed are `one-to-one, one-to-many`.
 
-## How to use
+# How to use
 
 Copy the code of `index.js` file into your expressjs solution and use it
 
