@@ -1,5 +1,4 @@
-#
-sequelize expressjs controller
+#sequelize expressjs controller
 
 This code allow to process any request using express-js and map the JSON body to a Sequelize model, the name of the sequelize model must be provided in the URL
 
